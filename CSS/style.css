@@ -26,3 +26,32 @@ body {
   padding: 32px;
   margin-left: 100%;
 }
+
+.bodySpace, .title{
+  padding: 8px;
+}
+
+.boxes{
+  margin: 8px;
+  background-color: lightblue;
+}
+
+.title{
+  font-size: 16px;
+}
+
+.content{
+  padding: 16px 8px;
+}
+
+.buttonContainer{
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.button{
+  display: inline-block;
+  background-color: white;
+  margin: 24px 8px;
+}
